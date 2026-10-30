@@ -1,0 +1,77 @@
+{
+  "org": "sailfishos",
+  "orgUrl": "https://github.com/sailfishos",
+  "claimedPublicRepos": 966,
+  "indexed": 964,
+  "archived": 210,
+  "withoutLanguage": 530,
+  "fetchedAt": "2026-10-30T13:24:00Z",
+  "categories": [
+    {
+      "id": "image",
+      "label": "Assemblage de l'image",
+      "count": 8,
+      "active": 6
+    },
+    {
+      "id": "updates",
+      "label": "Version et mises à jour",
+      "count": 15,
+      "active": 12
+    },
+    {
+      "id": "sdk",
+      "label": "SDK et compilation",
+      "count": 26,
+      "active": 23
+    },
+    {
+      "id": "system",
+      "label": "Démarrage et session",
+      "count": 51,
+      "active": 47
+    },
+    {
+      "id": "interface",
+      "label": "Interface et applications",
+      "count": 73,
+      "active": 66
+    },
+    {
+      "id": "comms",
+      "label": "Réseau, téléphone, synchro",
+      "count": 69,
+      "active": 66
+    },
+    {
+      "id": "media",
+      "label": "Audio, capteurs, multimédia",
+      "count": 41,
+      "active": 37
+    },
+    {
+      "id": "adaptation",
+      "label": "Adaptation matérielle",
+      "count": 9,
+      "active": 9
+    },
+    {
+      "id": "qt",
+      "label": "Qt, Wayland et rendu",
+      "count": 39,
+      "active": 31
+    },
+    {
+      "id": "docs",
+      "label": "Documentation",
+      "count": 8,
+      "active": 6
+    },
+    {
+      "id": "distro",
+      "label": "Reste de la distribution",
+      "count": 625,
+      "active": 451
+    }
+  ]
+}
